@@ -1,4 +1,4 @@
-# This is an `Team project` made in collabortion with [```Bhaskar9034```](https://github.com/bhaskar9034)
+# This is an `Team project` made in collabortion of [```Bhaskar9034```](https://github.com/bhaskar9034) and [`pmutyalu`](https://github.com/pmutyalu) for `SIH-2023`
 # careconnectors
 Our aim is to develop a digital system that streamlines the appointment scheduling process in hospitals by automating the process of identifying doctor availability and appointment slot allocation. The system allocates appointment slots based on the doctor's presence and the number of waitlisted patients. This will improve the overall patient experience by reducing the wait time. In conclusion, the proposed digital system will improve the efficiency and convenience of the appointment scheduling process in hospitals; the patients will benefit with reduced waiting time.
 # Idea/Approach Details
@@ -10,7 +10,6 @@ Here's an overview of the idea👇
 ● Doctor Availability Optimization
 ● Real-time Updates
 ● Data Integration
-● Machine Learning for Predictive Maintenance
 ● Scalability
 ● Feedback Loop
 ● Data Security and Privacy
