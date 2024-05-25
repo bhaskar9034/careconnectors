@@ -3,7 +3,8 @@ Our aim is to develop a digital system that streamlines the appointment scheduli
 # Idea/Approach Details
 ```
 The solution proposed here aims to streamline the scheduling and appointment allocation process in hospitals by harnessing the power of digital technology and AI integration.
-This system optimizes doctor availability and enhances the  overall patient experience. Here's an overview of the idea 👇:
+This system optimizes doctor availability and enhances the  overall patient experience.
+Here's an overview of the idea👇
 ● Patient-Centric Approach
 ● Doctor Availability Optimization
 ● Real-time Updates
