@@ -23,5 +23,5 @@ Here's an overview of the idea👇
 ## UML Diagram
 ![uml diag](https://github.com/pmutyalu/careconnectors/assets/130680906/2c5c7298-f02e-4b5b-8efa-12c5f8b04801)
 
-## Takea loook at our website hosted using Infinity free
+## Take a look at our website hosted using Infinity free
 [`careconnectors`](https://careconnectors.42web.io "Visit us😀")
