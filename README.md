@@ -13,12 +13,10 @@ The solution proposed here aims to streamline the  scheduling and appointment al
 ● Data Security and Privacy
 ```
 ## **Use Cases**
-⮚In this website, patient can `Schedule Appointment`
-with the doctor for the respective problem.
-⮚ Also `View Doctor’s Availability.`
-⮚ The Hospital staff will `Allocate Appointment` to the 
-people.
-⮚ After the allocation it will `Notify the time to Patient.`
+⮚In this website, patient can `Schedule Appointment` with the doctor for the respective problem.<br />
+⮚ Also `View Doctor’s Availability.`<br />
+⮚ The Hospital staff will `Allocate Appointment` to the people.<br />
+⮚ After the allocation it will `Notify the time to Patient.`<br />
 
 ## UML Diagram
 ![uml diag](https://github.com/pmutyalu/careconnectors/assets/130680906/2c5c7298-f02e-4b5b-8efa-12c5f8b04801)
