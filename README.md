@@ -12,7 +12,7 @@ The solution proposed here aims to streamline the  scheduling and appointment al
 ● Feedback Loop
 ● Data Security and Privacy
 ```
-## Use Cases
+## **Use Cases**
 ⮚In this website, patient can `Schedule Appointment`
 with the doctor for the respective problem.
 ⮚ Also `View Doctor’s Availability.`
